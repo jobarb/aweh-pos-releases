@@ -1,0 +1,11 @@
+{
+  "version": "1.1.0+562",
+  "buildNumber": 562,
+  "url": "/download/aweh_pos.apk",
+  "changelog": [
+    "FIX: Forced keyboard focus on takeout reference and lookup dialogs.",
+    "NEW: Integrated Takeout and Phone-in orders with vipclub.fdb.",
+    "FIX: Improved layout to display check customer names.",
+    "FIX: Added absolute global touch listener to reset timer during overlays."
+  ]
+}
